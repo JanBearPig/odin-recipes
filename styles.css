@@ -24,6 +24,10 @@ h2 {
     font-size: 40px;
 }
 
+.recipe-names {
+    display: inline-block;
+}
+
 a:link {
     color:antiquewhite;
 }
